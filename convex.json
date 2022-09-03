@@ -1,0 +1,7 @@
+{
+  "project": "testing",
+  "team": "miyu386",
+  "prodUrl": "https://judicious-cockroach-424.convex.cloud",
+  "functions": "convex/",
+  "authInfo": []
+}
